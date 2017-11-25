@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+body {
+	text-align: center;
+	background: black;
+	background-size: cover;
+	font-family: 'Oswald', Helvetica, sans-serif;
+	font-weight: 100;
+}
+h1,h3,a,p {
+	color: black;
+	background-color: rgba(255, 255, 255, .8);
+}
+a {
+	color: green;
+}
